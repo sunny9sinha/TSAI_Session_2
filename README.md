@@ -7,7 +7,12 @@ Neural net created in Excel sheet with Learning Rate = 0.5
 ![alt_test](https://github.com/sunny9sinha/TSAI_Session_2/blob/main/Screenshots/LR_05_Scr_2.png)
 
 Variation in Error graph when we change the learning rate from [0.1, 0.2, 0.5, 0.8, 1.0, 2.0] 
-
+![alt text](https://github.com/sunny9sinha/TSAI_Session_2/blob/main/Screenshots/LR_01_Graph.png)
+![alt text](https://github.com/sunny9sinha/TSAI_Session_2/blob/main/Screenshots/LR_02_Graph.png)
+![alt text](https://github.com/sunny9sinha/TSAI_Session_2/blob/main/Screenshots/LR_05_Graph.png)
+![alt text](https://github.com/sunny9sinha/TSAI_Session_2/blob/main/Screenshots/LR_08_Graph.png)
+![alt text](https://github.com/sunny9sinha/TSAI_Session_2/blob/main/Screenshots/LR_1_Graph.png)
+![alt text](https://github.com/sunny9sinha/TSAI_Session_2/blob/main/Screenshots/LR_2_Graph.png)
 
 Major Steps:
   - Design the neural network as shown in above screenshot, with the given inputs, targets and initial weights.
