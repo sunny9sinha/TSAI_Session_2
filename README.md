@@ -6,6 +6,7 @@ Neural net created in Excel sheet with Learning Rate = 0.5
 ![alt text](https://github.com/sunny9sinha/TSAI_Session_2/blob/main/Screenshots/LR_05_Scr_1.png)
 ![alt_test](https://github.com/sunny9sinha/TSAI_Session_2/blob/main/Screenshots/LR_05_Scr_2.png)
 
+Variation in Error graph when we change the learning rate from [0.1, 0.2, 0.5, 0.8, 1.0, 2.0] 
 
 
 Major Steps:
